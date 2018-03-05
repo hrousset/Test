@@ -1,4 +1,4 @@
-# Test
+﻿# Test
 
 J'ajoute un texte alors que je suis dans la branche **TestFonction**.
 
@@ -14,3 +14,5 @@ Les étudiants _ne manqueront pas_ d'inscrire dans ce fichier
 3. comment l'installer
 
 ## Second titre de niveau 2
+
+J'ai écrit ceci depuis mon ordi.
